@@ -1,0 +1,20 @@
+{
+	"common.learn.more": "Learn more",
+
+	"products.title": "Products",
+	"products.suite.name": "Suite - Only Javascript-based Office Library",
+	"products.suite.desc1": "The DHTMLX JavaScript UI library allows you to build cross-platform, cross-browser web and mobile apps faster. It includes a rich set of ready-to-use JavaScript UI components that can be easily combined into a single application interface or used separately.",
+	"products.suite.desc2": "The DHTMLX UI components can be used with any server-side technology: PHP, Java, ASP.NET, Ruby, Grails, ColdFusion, Python, etc. To simplify client-server data communication, we offer special server-side connectors",
+
+	"products.slidejs.name": "SlideJS - Only Javascript-based Powerpoint Viewer",
+	"products.slidejs.desc1": "This is a Javascript library that allows you to browse Pptx & Pdf without a separate server by using a web browser.",
+	"products.slidejs.desc2": "SlideJS Description2",
+
+	"products.docxjs.name": "DocxJS - JavaScript Word Library",
+	"products.docxjs.desc1": "DocxJS Description1",
+	"products.docxjs.desc2": "DocxJS Description2",
+
+	"products.celljs.name": "CellJS - JavaScript Excel Library",
+	"products.celljs.desc1": "CellJS Description1",
+	"products.celljs.desc2": "CellJS Description2"
+}
